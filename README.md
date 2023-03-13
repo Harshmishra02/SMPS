@@ -21,7 +21,12 @@ Provide isolation between input and output (Not for all)
 
 Multiple outputs
 
+# Virtual Working Model
+
 ![WhatsApp Image 2022-12-15 at 6 39 34 PM](https://user-images.githubusercontent.com/127647914/224661277-64b843f0-0287-464f-8f11-74ed2eb7e47d.jpeg)
+
+# Physical Working Model
+
 ![WhatsApp Image 2022-12-15 at 11 58 19 PM](https://user-images.githubusercontent.com/127647914/224661630-d6c92be5-31ce-41f9-aa89-d864f21ab42a.jpeg)
 
 
